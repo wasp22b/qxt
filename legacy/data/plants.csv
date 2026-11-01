@@ -1,0 +1,5 @@
+name,cost_per_mwh,co2_kg_per_mwh
+Solar,70,40
+Battery,95,60
+Diesel,130,800
+Grid,60,650

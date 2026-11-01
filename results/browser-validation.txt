@@ -1,0 +1,13 @@
+Browser workflow passed three consecutive runs after final changes:
+- Normal hourly allocation loads and validates.
+- Evening grid outage reports noncritical shortages.
+- Canonical p=0/1/2 Aer benchmark completes.
+- City-hour benchmark completes full-horizon classical recourse.
+- Source costs can be edited and re-optimized.
+- All five scenarios compare successfully.
+- Audited plan JSON download is generated.
+- Mobile viewport has no horizontal page overflow.
+- No JavaScript page errors.
+
+Native computations are serialized on one stable server worker;
+HTTP job status and static assets remain served independently.

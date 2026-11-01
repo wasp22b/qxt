@@ -1,0 +1,14 @@
+{
+  "python": "3.13.16",
+  "platform": "Linux-6.1.158+-x86_64-with-glibc2.41",
+  "packages": {
+    "numpy": "2.3.5",
+    "scipy": "1.17.1",
+    "qiskit": "2.6.1",
+    "qiskit-aer": "0.17.2",
+    "pytest": "9.0.3"
+  },
+  "data": "synthetic",
+  "quantum_hardware": false,
+  "tests_passed": 39
+}

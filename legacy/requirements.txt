@@ -1,0 +1,8 @@
+qiskit>=1.2
+qiskit-aer>=0.15
+qiskit-optimization>=0.6
+numpy
+scipy
+matplotlib
+pylatexenc
+jupyter
