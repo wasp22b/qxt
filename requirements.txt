@@ -1,0 +1,12 @@
+# Core (classical LP engine + quantum module)
+numpy>=1.24
+scipy>=1.11
+
+# Dashboard (Feature 12)
+pandas>=2.0
+plotly>=5.18
+streamlit>=1.49
+
+# Quantum module (Feature 10). QAOA is built from explicit RZ/RZZ/RX gates, so
+# this works on Qiskit 1.x and 2.x. Tested on qiskit 2.6.1.
+qiskit>=1.0
